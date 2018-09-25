@@ -1,0 +1,26 @@
+_repo: James-Russell-Lowell-A-Biography-vol-22_57777
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scudder, Horace Elisha
+    aliases:
+    - Scudder, H. E. (Horace Elisha)
+    - Scudder, Horace E.
+    birthdate: 1838
+    deathdate: 1902
+    gutenberg_agent_id: '3446'
+    url: http://www.gutenberg.org/2009/agents/3446
+    wikipedia: http://en.wikipedia.org/wiki/Horace_Scudder
+description: ''
+gutenberg_issued: '2018-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: James Russell Lowell, A Biography; vol 2/2
+url: http://www.gutenberg.org/ebooks/57777
