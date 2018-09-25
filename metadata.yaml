@@ -1,5 +1,8 @@
 _repo: James-Russell-Lowell-A-Biography-vol-22_57777
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57777-h/images/cover.jpg
 creator:
   author:
     agent_name: Scudder, Horace Elisha
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3446
     wikipedia: http://en.wikipedia.org/wiki/Horace_Scudder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57777#James-Russell-Lowell-A-Biography-vol-22
 gutenberg_issued: '2018-08-26'
 gutenberg_type: Text
 identifiers:
